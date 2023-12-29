@@ -1,5 +1,7 @@
 # Flávio Silveira
-![](https://d39qdlcrvnra4b.cloudfront.net/avatars/220598/small/23cWquE6_400x400.jpg?1543539179).
+
+### Summary
+Here is a summary of myself...
 
 ### My Book  
 PHP Mentors Book is a set of questions with topics that can help a lot of developers out there (Not just PHP). To answer those questions I contacted about 200 personalities and senior PHP people around the world that came up with the material that you can read.
