@@ -4,6 +4,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=flaviosilveira&show_icons=true)  
 
-![GitHub metrics]([[https://metrics.lecoq.io/flaviosilveira](https://metrics.lecoq.io/insights/flaviosilveira)](https://metrics.lecoq.io/insights/flaviosilveira))  
+![GitHub metrics](https://metrics.lecoq.io/insights/flaviosilveira)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=flaviosilveira)
