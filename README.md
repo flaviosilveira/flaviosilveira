@@ -1,7 +1,7 @@
 # Flávio Silveira
 
 ### Summary
-Here is a summary of myself...
+I am a versatile tech professional with a passion for leadership, seamlessly transitioning between programming and management. Graduated in Internet Systems, I bring diverse experience from consulting to managerial roles in national and multinational companies. My journey spans the latest technologies in WEB and Mobile. As a speaker, I share knowledge at technical and non-technical events, reflecting my understanding of technology. Explore my book, "PHP Mentors," at https://www.phpmentors.com, showcasing my commitment to guiding professionals to success.
 
 ### My Book  
 PHP Mentors Book is a set of questions with topics that can help a lot of developers out there (Not just PHP). To answer those questions I contacted about 200 personalities and senior PHP people around the world that came up with the material that you can read.
