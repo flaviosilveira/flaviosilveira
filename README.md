@@ -3,7 +3,9 @@
 
 ### My Book  
 PHP Mentors Book is a set of questions with topics that can help a lot of developers out there (Not just PHP). To answer those questions I contacted about 200 personalities and senior PHP people around the world that came up with the material that you can read.
+
 ![](https://www.phpmentors.com/files/about-img.png)
+
 [Oficial Site](https://www.phpmentors.com/)
 [LeanPub](https://leanpub.com/php-mentors)
 
